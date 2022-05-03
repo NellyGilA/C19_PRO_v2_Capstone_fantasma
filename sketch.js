@@ -79,7 +79,7 @@ function spawnDoors() {
     //agregar cada puerta al grupo.
     doorsGroup.add(door);
     invisibleBlock.debug = true;
-    climbersGroup.add(climber);
-    invisibleBlockGroup.add(invisibleBlock);
+    //climbersGroup.add(climber);
+    //invisibleBlockGroup.add(invisibleBlock);
  // }
 }
